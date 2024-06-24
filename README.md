@@ -1,4 +1,3 @@
-## Hi there 👋 I'm Bote Zhou
 - 🔭 I’m currently working on a **text editor**.
 - 📫 You can reach me at:
   - Email: botez4204@gmail.com
